@@ -98,4 +98,4 @@ ___
 
 
 ## 3. Sketch de la Herramienta de DASHBOARD de LABORATORIA
-[!Sketch](images/dashboard.png)
+![Sketch](images/dashboard.png)
